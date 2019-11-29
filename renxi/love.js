@@ -169,7 +169,7 @@
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
             ctx.font = "12px 微软雅黑,Verdana";
-            ctx.fillText("Văn Lâm", 23, 10);
+            ctx.fillText("Văn Lâm ---  Click vào Trái Tym Đi ạ!", 23, 10);
             ctx.restore();
         },
         clear: function() {
